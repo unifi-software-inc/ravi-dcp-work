@@ -1,0 +1,10 @@
+orderstatus
+Ordered
+Pending
+Declined
+Paid
+Processed
+Delivered
+DeliveryException
+ReturnStarted
+ReturnProcessed
